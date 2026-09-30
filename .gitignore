@@ -1,0 +1,23 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+
+# Generated outputs
+forensic_report.pdf
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/

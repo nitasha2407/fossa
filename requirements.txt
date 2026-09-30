@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+google-generativeai>=0.4.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+fpdf2>=2.7.4
+numpy>=1.24.0
+Markdown>=3.0.0
